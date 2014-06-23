@@ -9,106 +9,114 @@ If you enjoy trying things out, and learning new languages, this list will help 
 
 #The Kōans
 
-##AngularJS
+##Programming Lanauages
+
+###AngularJS
  - [https://github.com/bjpbakker/angular-koans](https://github.com/bjpbakker/angular-koans)
 
-##Backbone
+###Backbone
  - https://github.com/larrymyers/backbone-koans - using the Jasmine framework
  - https://github.com/addyosmani/backbone-koans-qunit - using the QUnit testing framework
 
-##Bash
+###Bash
  - [https://github.com/marcinbunsch/bash_koans](https://github.com/marcinbunsch/bash_koans)
 
-##CSharp
+###CSharp
  - [https://bitbucket.org/srtsolutions/csharpkoans](https://bitbucket.org/srtsolutions/csharpkoans)
 
-##Clojure
+###Clojure
  - [https://github.com/functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) 
  - [https://github.com/sritchie/core.logic-koans](https://github.com/sritchie/core.logic-koans)
  - [http://clojurescriptkoans.com/](http://clojurescriptkoans.com/)
 
-##CoffeeScript
+###CoffeeScript
  - [https://github.com/sleepyfox/coffeescript-koans](https://github.com/sleepyfox/coffeescript-koans)
 
-##ColdFusion
+###ColdFusion
  - [https://github.com/bittersweetryan/ColdFusion-Koans](https://github.com/bittersweetryan/ColdFusion-Koans)
  - https://github.com/gpickin/Coldfusion-Coldbox-Koans - using the ColdBox framework
 
-##Dart 
+###Dart 
  - [https://github.com/butlermatt/dart_koans](https://github.com/butlermatt/dart_koans)
 
-##Elixir 
+###Elixir 
  - [https://github.com/seven1m/30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir)
 
-##Erlang 
+###Erlang 
  - [https://github.com/patrickgombert/erlang-koans](https://github.com/patrickgombert/erlang-koans)
 
-##FSharp
+###FSharp
  - [https://github.com/ChrisMarinos/FSharpKoans](https://github.com/ChrisMarinos/FSharpKoans)
 
-##Git
- - [http://gitimmersion.com/](http://gitimmersion.com/)
-
-##Go
+###Go
  - [https://github.com/cdarwin/go-koans](https://github.com/cdarwin/go-koans)
  - https://github.com/VictorDenisov/go_koans
 
-##Groovy
+###Groovy
  - [http://groovykoans.org/](http://groovykoans.org/)
 
-##Haskell 
+###Haskell 
  - [https://github.com/HaskVan/HaskellKoans](https://github.com/HaskVan/HaskellKoans)
  - [https://github.com/tonymorris/course](https://github.com/tonymorris/course)
 
-##Java 
+###Java 
  - [https://github.com/matyb/java-koans](https://github.com/matyb/java-koans)
 
-##JavaScript
+###JavaScript
  - https://github.com/liammclennan/JavaScript-Koans - using the QUnit testing framework
  - https://github.com/mrdavidlaing/javascript-koans - using the Jasmine framework
 
-##Lisp 
+###Lisp 
  - [https://github.com/google/lisp-koans](https://github.com/google/lisp-koans)
 
-##Lua
+###Lua
  - [https://github.com/kikito/lua_missions](https://github.com/kikito/lua_missions)
 
-##MongoDB
- - [https://github.com/chicagoruby/MongoDB_Koans](https://github.com/chicagoruby/MongoDB_Koans)
-
-##MyBatis
- - [https://github.com/quux00/mybatis-koans](https://github.com/quux00/mybatis-koans)
-
-##Neo4j
- - [https://github.com/jimwebber/neo4j-tutorial](https://github.com/jimwebber/neo4j-tutorial)
-
-##.NET
+###.NET
  - [https://github.com/CoryFoy/DotNetKoans](https://github.com/CoryFoy/DotNetKoans)
 
-##Objective-C 
+###Objective-C 
  - [https://github.com/joecannatti/Objective-C-Koans](https://github.com/joecannatti/Objective-C-Koans)
 
-##Perl
+###Perl
  - [https://github.com/forcedotcom/PerlKoans](https://github.com/forcedotcom/PerlKoans)
 
-##Prolog
+###Prolog
  - [https://github.com/araneforseti/prolog-koans](https://github.com/araneforseti/prolog-koans)
 
-##Python
+###Python
  - [https://github.com/gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans)
 
-##R
+###R
  - https://github.com/DASpringate/Rkoans
 
-##Ruby
+###Ruby
  - [http://rubykoans.com/](http://rubykoans.com/)
  - [https://github.com/neo/ruby_koans](https://github.com/neo/ruby_koans)
  - [https://github.com/sathish316/metaprogramming_koans](https://github.com/sathish316/metaprogramming_koans)
 
-##Scala
+###Scala
  - [http://www.scalakoans.org/](http://www.scalakoans.org/) 
  - https://bitbucket.org/dickwall/scala-koans/wiki/Home
  - [https://github.com/sbt/sbt-koan](https://github.com/sbt/sbt-koan)
 
-##Smalltalk
+###Smalltalk
  - https://github.com/sl4m/gnu_smalltalk_koans - GNU dialect
+
+##Databases
+
+###MongoDB
+ - [https://github.com/chicagoruby/MongoDB_Koans](https://github.com/chicagoruby/MongoDB_Koans)
+
+###Neo4j
+ - [https://github.com/jimwebber/neo4j-tutorial](https://github.com/jimwebber/neo4j-tutorial)
+
+##Frameworks
+
+###MyBatis
+ - [https://github.com/quux00/mybatis-koans](https://github.com/quux00/mybatis-koans)
+
+##Other
+
+###Git
+ - [http://gitimmersion.com/](http://gitimmersion.com/)
