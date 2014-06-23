@@ -49,9 +49,6 @@ If you enjoy trying things out, and learning new languages, this list will help 
 ##Git
  - [http://gitimmersion.com/](http://gitimmersion.com/)
 
-##GNU Smalltalk
- - [https://github.com/sl4m/gnu_smalltalk_koans](https://github.com/sl4m/gnu_smalltalk_koans)
-
 ##Go
  - [https://github.com/cdarwin/go-koans](https://github.com/cdarwin/go-koans)
  - https://github.com/VictorDenisov/go_koans
@@ -112,3 +109,6 @@ If you enjoy trying things out, and learning new languages, this list will help 
  - [http://www.scalakoans.org/](http://www.scalakoans.org/) 
  - https://bitbucket.org/dickwall/scala-koans/wiki/Home
  - [https://github.com/sbt/sbt-koan](https://github.com/sbt/sbt-koan)
+
+##Smalltalk
+ - https://github.com/sl4m/gnu_smalltalk_koans - GNU dialect
