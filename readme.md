@@ -9,7 +9,7 @@ If you enjoy trying things out, and learning new languages, this list will help 
 
 #The Kōans
 
-##Angularjs
+##AngularJS
  - [https://github.com/bjpbakker/angular-koans](https://github.com/bjpbakker/angular-koans)
 
 ##Backbone
