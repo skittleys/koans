@@ -27,6 +27,8 @@ If you enjoy trying things out, and learning new languages, this list will help 
 ###Clojure
  - [https://github.com/functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) 
  - [https://github.com/sritchie/core.logic-koans](https://github.com/sritchie/core.logic-koans)
+
+###ClojureScript
  - [http://clojurescriptkoans.com/](http://clojurescriptkoans.com/)
 
 ###CoffeeScript
