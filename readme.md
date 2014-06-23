@@ -5,11 +5,16 @@ ________________________________
 
 #Intro
 
-This is a comprehensive but not exhaustive list of available kōans. Implementations that appeared obsolete, rudimentary or abandoned/incomplete have not been added. Where more than one decent implementation exists, I have tried to describe the differences between them. 
+This is a *comprehensive* but not *exhaustive* list of available kōans. Implementations that appeared obsolete, rudimentary or abandoned/incomplete have not been added. Where more than one decent implementation exists, I have tried to describe the differences between them. 
 
 If an implementation does not appear on this list and you feel it should be included, please submit a pull request or an issue.
 
 #The Kōans
+
+ - [Programming Languages](#programming-languages)
+ - [Databases](#databases)
+ - [Frameworks](#frameworks)
+ - [Other](#other)
 
 ##Programming Lanauages
 
