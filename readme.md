@@ -122,3 +122,7 @@ If you enjoy trying things out, and learning new languages, this list will help 
 
 ###Git
  - [http://gitimmersion.com/](http://gitimmersion.com/)
+
+###Reactive Extensions (Rx)
+ - http://rxkoans.codeplex.com/
+ - https://github.com/mattpodwysocki/RxJSKoans - Rx for Javascript
